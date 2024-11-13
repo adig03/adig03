@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Aditya Gupta]!
+# Hi there 👋, I'm Aditya Gupta!
 
 I'm an Android Developer passionate about building modern, user-friendly, and robust mobile applications.
 
