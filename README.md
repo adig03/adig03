@@ -75,12 +75,11 @@
 ###
 
 <div align="left">
+  ![adig03's Stats](https://github-readme-stats.vercel.app/api?username=adig03&theme=solarized-light&show_icons=true&hide_border=true&count_private=true)
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+
 
 ###
