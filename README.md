@@ -25,17 +25,18 @@
 
 <div align="center">
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adig03&theme=solarized-light&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=adig03&theme=solarized-light&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=adig03&theme=solarized-light&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adig03&theme=solarized-light&hide_border=true" alt="Streak Stats" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=adig03&theme=solarized-light&hide_border=true" alt="Streak Stats" />
   
   <br><br>
+
+
+
 </div>
+
 
 
 ---
