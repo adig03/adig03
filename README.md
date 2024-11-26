@@ -25,24 +25,16 @@
 
 <div align="center">
 
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adig03&theme=solarized-light&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=adig03&theme=solarized-light&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adig03&theme=solarized-light&hide_border=true" alt="Streak Stats" />
   
   <br><br>
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=adig03&theme=solarized-light&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
-  <br><br>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adig03&theme=solarized-light&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-  
-  <br><br>
-
-  <!-- Snake Animation -->
-  ![snake animation](https://github.com/adig03/adig03/blob/output/github-contribution-grid-snake2.svg)
-
 </div>
 
 
