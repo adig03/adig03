@@ -84,11 +84,11 @@
   <tr>
     <td>
       <!-- GitHub Stats -->
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=adig03&theme=solarized-light&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=adig03&theme=default&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
       <!-- GitHub Streak Stats -->
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=adig03&theme=solarized-light&hide_border=true" alt="Streak Stats" />
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=adig03&theme=default&hide_border=true" alt="Streak Stats" />
     </td>
   </tr>
 </table>
