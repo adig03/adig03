@@ -17,7 +17,7 @@
 
 <h2>About Me</h2>
 
-✨ **Creating bugs since**: 2020, when I wrote my first "Hello, World!" program and realized debugging is half the job in coding. <br><br>
+✨ **Creating bugs since**: 2022, when I wrote my first "Hello, World!" program and realized debugging is half the job in coding. <br><br>
 📚 **Currently learning**:  
 - Advanced Android Development using Kotlin  
 - Spring Boot for Backend  
