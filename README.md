@@ -98,8 +98,8 @@
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=adig03&theme=default&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <!-- GitHub Streak Stats -->
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=adig03&theme=default&hide_border=true" alt="Streak Stats" />
+      <!-- GitHub Language Stats -->
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adig03&theme=default&show_icons=true&hide_border=true&layout=compact" alt="adig03's GitHub Stats" />
     </td>
   </tr>
 </table>
